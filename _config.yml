@@ -1,0 +1,22 @@
+title: 평창동 구르메
+description:
+
+baseurl: ''
+url: 'http://groumet.kr'
+
+author: groumet.kr
+instagram: https://www.instagram.com/explore/locations/391092582/
+
+social:
+  type: restuarant
+  name: Pyeongchang-dong Gurume
+  links: {  }
+google:
+  analytics:
+  site_verification:
+
+markdown: kramdown
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
